@@ -1,0 +1,4 @@
+Configurations
+==============
+
+CakePHP Plugin
